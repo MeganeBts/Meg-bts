@@ -1,1 +1,1 @@
-# Meg-bts
+#Hi my name is megane and I am a 6th grader who is learning coding. I've got two certificates on coding HTML AND CSS, and JS. I am getting a SQL certificate after I finish it this year and I am going to learn how to do more and more advanced coding. I started learning how to type when I was around 7  years old and I started to do JS when I was 8 years old and then before I knew it, I started to learn SQL and HTML, and CSS. I love coding and learning. 
